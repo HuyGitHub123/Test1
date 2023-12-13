@@ -8,5 +8,6 @@ namespace WindowsFormsApp4.models
 {
     internal class User
     {
+        public int UserName { get; set; }
     }
 }
